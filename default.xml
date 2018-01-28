@@ -12,7 +12,7 @@
   <remote name="Freescale"  fetch="git://github.com/Freescale" />
   
   <project name="meta-exor"         remote="solarma"    revision="19083f3a2814df60a1e6500f20df2e14de2ca1eb" path="git/meta-exor" />
-  <project name="meta-qt5"          remote="qt5"        revision="743b3b93e17f5382fd1f9f4e0d2932501c8a3c78" path="git/meta-qt5" />
+  <project name="meta-qt5"          remote="qt5"        revision="c6aa602d0640040b470ee81de39726276ddc0ea3" path="git/meta-qt5" />
   <project name="meta-browser"      remote="OSS"        revision="1569eeb9cc1b87632abbf35fbb05f4ac4eeb3987" path="git/meta-browser"/>
   <project name="poky"              remote="yocto"      revision="717303e6fbcbbe181ad9645d762eb5a85d934523" path="git/yocto-poky"/>
   <project name="meta-openembedded" remote="oe"         revision="5e82995148a2844c6f483ae5ddd1438d87ea9fb7" path="git/yocto-meta-openembedded" />
